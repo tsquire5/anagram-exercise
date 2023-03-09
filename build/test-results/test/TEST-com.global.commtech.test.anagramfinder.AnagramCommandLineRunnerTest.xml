@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.global.commtech.test.anagramfinder.AnagramCommandLineRunnerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-09T22:14:19" hostname="Thomass-MBP.lan" time="0.351">
+  <properties/>
+  <testcase name="shouldThrowExceptionWhenInputFileDoesNotExist()" classname="com.global.commtech.test.anagramfinder.AnagramCommandLineRunnerTest" time="0.347"/>
+  <testcase name="shouldThrowExceptionWhenNoArgumentsPresent()" classname="com.global.commtech.test.anagramfinder.AnagramCommandLineRunnerTest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenMoreThanOneArgumentIsPassed()" classname="com.global.commtech.test.anagramfinder.AnagramCommandLineRunnerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
